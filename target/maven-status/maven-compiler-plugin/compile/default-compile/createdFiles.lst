@@ -1,0 +1,10 @@
+com\springbootsoap\GetGeoIP.class
+com\springbootsoap\GetGeoIPResponse.class
+com\springboot\config\WebServiceConfig.class
+com\springboot\endpoint\WebServiceEndpoint.class
+com\springbootsoap\GeoIP.class
+com\springboot\SpringbootSoapApplication.class
+com\springbootsoap\GetGeoIPContextResponse.class
+com\springbootsoap\GetGeoIPContext.class
+com\springbootsoap\ObjectFactory.class
+com\springbootsoap\package-info.class
